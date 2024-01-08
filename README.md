@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on Ayyıldızsoft<br>📚 I have experience in developing apps for both Android (using Kotlin and Flutter) and iOS (using Flutter)</p>
+<p align="left">✨ I’m currently working as Flutter developer<br>📚 I have experience in developing apps for both Android (using Kotlin and Flutter) and iOS (using Flutter)</p>
 
 ###
 
